@@ -4,3 +4,4 @@ parcial
 testando novamente
 
 testando reset
+agora testando o git diff
