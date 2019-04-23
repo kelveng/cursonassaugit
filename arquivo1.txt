@@ -2,3 +2,5 @@ teste curso git
 parcial
 
 testando novamente
+
+testando reset
